@@ -1,0 +1,6 @@
+{
+  "name": "Mock Interview Agent",
+  "description": "An interactive AI-powered technical and HR interview simulator that conducts adaptive, multi-turn mock interviews, provides speech-to-text input, and delivers detailed performance reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
